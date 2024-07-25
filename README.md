@@ -12,7 +12,7 @@ Email: ayeshaasarak@gmail.com
 🔍 Connect with me:
 <p align="center">
   <a href="https://medium.com/@ayeshaasarak" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-t he-badge&logo=medium&logoColor=white" height="40" />
   </a>
   <a href="https://www.linkedin.com/in/ayesha-asarak/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
@@ -30,7 +30,7 @@ Email: ayeshaasarak@gmail.com
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayesha-Asarak&layout=compact&theme=vue&hide_border=true" alt="Top Languages" />
   </a>
 </div>
-🧰 Languages and Tools:
+🧰 Languages and Tools:-
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="40" height="40" style="margin: 5px;"/>
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40" style="margin: 5px;"/>
